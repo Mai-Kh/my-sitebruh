@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "contactDTD.dtd">
+<customer-information>
+  <contactinfo>
+    <contact>
+      <name>Matt Nguyen</name>
+      <email>mattsoccer95@gmail.com</email>
+      <phonenumber>(123)456-7890</phonenumber>
+      <address>123 4th St</address>
+      <servicedate>October 30th</servicedate>
+      <serviceneeded>Lights</serviceneeded>
+      <additionalinfo>I need 100 light fixtures installed</additionalinfo>
+
+   </contact>
+  </contactinfo>
+  <contactinfo>
+    <contact>
+      <name>My Duder</name>
+      <email>mattsoccer95@gmail.com</email>
+      <phonenumber>(123)456-7890</phonenumber>
+      <address>123 4th St</address>
+      <servicedate>October 30th</servicedate>
+      <serviceneeded>Lights</serviceneeded>
+      <additionalinfo>I need 100 light fixtures installed</additionalinfo>
+   </contact>
+  </contactinfo>
+</customer-information>

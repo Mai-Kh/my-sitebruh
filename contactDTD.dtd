@@ -1,0 +1,9 @@
+<!ELEMENT contactinfo (contact)>
+<!ELEMENT contact (name,email,phonenumber,address,servicedate,serviceneeded,additionalinfo)>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT email (#PCDATA)*>
+<!ELEMENT phonenumber (#PCDATA)*>
+<!ELEMENT address (#PCDATA)*>
+<!ELEMENT servicedate (#PCDATA)*>
+<!ELEMENT serviceneeded (#PCDATA)*>
+<!ELEMENT additionalinfo (#PCDATA)*>
